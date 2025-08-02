@@ -1,0 +1,32 @@
+Project Title: HR Analytics Department Dashboard
+Project Overview:
+This project presents an interactive HR Analytics Dashboard created using Tableau. The dashboard is designed to provide key insights into an organization's workforce, helping HR departments and management make data-driven decisions. By visualizing key HR metrics, the dashboard enables users to monitor employee performance, analyze attrition trends, and understand demographic distributions at a glance.
+
+Key Features of the Dashboard:
+
+Employee Demographics: Visualizations that break down the workforce by department, job role, gender, and education level.
+
+Performance Metrics: The dashboard tracks and displays key performance indicators (KPIs) to assess employee performance and overall departmental efficiency.
+
+Attrition Analysis: Interactive charts to explore attrition rates and identify potential factors contributing to employee turnover.
+
+Recruitment Funnel: A view of the recruitment process, from job openings to new hires, helping to optimize hiring strategies.
+
+Interactive Filters: Users can filter the data by various parameters, such as department, job title, or hire date, to perform custom analysis.
+
+Technical Stack:
+
+Tableau: The primary tool used for creating all the visualizations and the interactive dashboard. The project file is a .twbx file, which includes both the dashboard and the underlying data.
+
+Data Source: The data is stored in a .hyper file, which is a highly optimized data extract format for Tableau.
+
+How to Use:
+
+Download the HR ANALYTICS DEPARTMENT DASHBOARD.twbx file from this repository.
+
+Open the file using Tableau Desktop.
+
+Explore the various tabs and interactive filters to navigate through the HR data and gain insights.
+
+Project Status:
+This project is currently complete and is available for viewing and analysis. Feedback and suggestions for further improvements are welcome.
